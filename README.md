@@ -67,7 +67,7 @@ This repository contains two Python scripts, `file.py` and `append.py`, which de
 ### file.py Examples
 
 #### Case 1: `sample.txt` Exists
-```bash
+
 Reading File Content:
 ![image](https://github.com/user-attachments/assets/7f1cbdb9-b186-43cb-acb6-f58e335e9a31)
 
